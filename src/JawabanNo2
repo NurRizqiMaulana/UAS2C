@@ -1,0 +1,17 @@
+ langkah pertama adalah tentukan pivotnya. dalam hal ini adalah saya memilih angka 56
+ kemudian buatpartisi buat masing2 angka sebelah kanan dan kiri
+ kemudian gunakan algoritma quicksort yang ada diatas. jika angka lebih kecil dari pivot maka akan diletakan sebelah kiri dan jika lebih besar maka letakan disebelah kanan.
+ langkah pertama adalah bandingkan angka 2 dengan pivot apakah lebih kecil atau lebih besar.
+ karena angka 2 lebih besar maka letakan angka 2 sebelum pivot.
+ lanjut ke angka 18. bandingkan angka 18 dengan pivot.
+ karena angka 18 lebih kecil dari 56 maka posisi tetap.
+ lanjut ke angka 1. cek apakah angka 1 lebih kecil atau lebih besar dari pivot.
+ karena angka 1 lebih kecil dari pivot maka letaknya tetap
+ bandingkan pivot dengan angka 0. cek angka 0 ebih besar atau lebih kecil dari pivot.
+ karena angka 0 lebih kecil dari pivot maka posisinya tetap.
+bandingkan pivot dengan angka 76. cek angka 76 lebih besar atau lebih kecil dari pivot.
+karena angka 76 lebih besar maka posisi tetap sebelah kanan
+lanjut ke angka 98.karena lebih besar dari pivot maka posisinya tetap,
+lanjut ke angka 34, karena lebih kecil dari pivot maka posisinya berubah ke sebelah kiri pivot.
+kemudian cek angka 12, karena lebih kecil dari pivot maka posisinya berubah ke sebelah kiri pivot.
+data sementara 2,18,1,0,34,12,56,76,98
