@@ -14,4 +14,4 @@ karena angka 76 lebih besar maka posisi tetap sebelah kanan
 lanjut ke angka 98.karena lebih besar dari pivot maka posisinya tetap,
 lanjut ke angka 34, karena lebih kecil dari pivot maka posisinya berubah ke sebelah kiri pivot.
 kemudian cek angka 12, karena lebih kecil dari pivot maka posisinya berubah ke sebelah kiri pivot.
-data sementara 2,18,1,0,34,12,56,76,98
+data sementara  2,18,1,0,34,12,56,76,98
